@@ -13,7 +13,6 @@
 
 * **[2026.1.11]** 🔥 We are excited to release our survey on LRM mechanistic studies in this repo.
 
-
 ## 📌 Overview
 
 Our paper provides a comprehensive survey of the **mechanistic understanding of LRMs**. 
@@ -40,8 +39,9 @@ We organize recent findings into three core dimensions:
 ## 🗂️ Contents
 - [Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures](#towards-a-mechanistic-understanding-of-large-reasoning-models-a-survey-of-training-inference-and-failures)
   - [🚀 News](#-news)
-  - [📌 Overview](#-overview)
+  - [� Overview](#-overview)
   - [🗂️ Contents](#️-contents)
+  - [🔗 Citation](#-citation)
   - [📄 Paper List](#-paper-list)
     - [Training Dynamics](#training-dynamics)
       - [Roles of SFT and RL in Post-Training](#roles-of-sft-and-rl-in-post-training)
@@ -59,6 +59,19 @@ We organize recent findings into three core dimensions:
       - [Combine SFT with RL](#combine-sft-with-rl)
       - [RL balancing exploration and exploitation](#rl-balancing-exploration-and-exploitation)
 
+## 🔗 Citation
+If you find our survey helpful, please consider citing our paper:
+
+```bibtex
+@misc{hu2026towards,
+  author = {Hu, Yi and Gu, Jiaqi and Wang, Ruxin and Yao, Zijun and Peng, Hao and Wu, Xiaobao and Chen, Jianhui and Zhang, Muhan and Pan, Liangming},
+  title  = {Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures},
+  year   = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/AheadOFpotato/Awesome-LRM-Mechanisms}
+}
+```
 
 ## 📄 Paper List
 ### Training Dynamics 
